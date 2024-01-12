@@ -1,0 +1,46 @@
+ 
+ 
+ 
+.intro {
+    border-radius: 10px;
+    
+    margin-left: 200px ;
+    margin-right: 200px ;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color:#16a085;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.intro-title {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.intro-subtitle {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.intro-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:blue;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.intro-button:hover {
+    background-color: #000;
+}
+img{
+    margin-right: 250px ;
+     
+     
+    border-radius:100px ;
+    width: 200px;
+    height: 200px;
+}
